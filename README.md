@@ -1,3 +1,8 @@
 # Dynamic_Scheduling_CSA
 ## Methodology
-![methodology1](https://github.com/SunandanAdhikary/DynamicSchedulingCSA/assets/6061264/d3c8b5dd-18c1-49e7-86f3-224ac96b96b9)
+
+![methodology2](https://github.com/SunandanAdhikary/DynamicSchedulingCSA/assets/6061264/83631571-3deb-4ee3-991d-8d2da1a2ad01)
+
+## CSA Specs for QuadCopter
+
+![qc_task_details](https://github.com/SunandanAdhikary/DynamicSchedulingCSA/assets/6061264/1331bd76-fd37-4341-aecf-3001e5253497)
